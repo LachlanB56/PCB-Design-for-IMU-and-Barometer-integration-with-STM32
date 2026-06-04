@@ -40,8 +40,7 @@ The Nucleo header carries the minimum four lines needed for the bus:
 
 <img width="452" height="274" alt="Screenshot 2026-06-04 072611" src="https://github.com/user-attachments/assets/2c31ca24-1310-47d8-9385-dbd18f1f2458" />
 
-<img width="452" height="274" alt="Screenshot 2026-06-04 072611" src="https://github.com/user-attachments/assets/ff19eda5-3eb3-4e14-a4c0-f531c342d513" />
-
+<img width="482" height="332" alt="Screenshot 2026-06-04 104208" src="https://github.com/user-attachments/assets/b9a6450d-caa6-48ce-942d-92a84b572957" />
 
 ## Components
 
